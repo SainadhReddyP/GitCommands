@@ -8,3 +8,15 @@ git config --global user.name "user_name"
 Set the Email:
 git config --global user.email "sainadhreddy@email.com"
 
+
+**Starting a Project**
+----------------------
+git init
+
+Create a local repository:
+git init <repo_name>
+
+Clone:
+git clone <HTPPS_repo_link>
+
+
