@@ -1,0 +1,10 @@
+Git Configuration
+------------------
+Get and Set configuration variables that control all facets of how Git looks and operates.
+
+Set the Name:
+git config --global user.name "user_name"
+
+Set the Email:
+git config --global user.email "sainadhreddy@email.com"
+
