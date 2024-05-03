@@ -20,3 +20,24 @@ Clone:
 git clone <HTPPS_repo_link>
 
 
+Local Changes
+--------------
+Add a file to the Staging area
+git add file_name
+
+Add all files to the Staging area
+git add*
+
+Commit Changes
+--------------
+git commit -m "commit message"
+
+
+
+
+
+
+
+
+
+
